@@ -16,3 +16,4 @@ d2eacb2	2.255643	9.1	discard	lower matrix lr to 0.03 after removing logit cap
 a2930b0	2.262484	8.6	discard	shrink MLP to 2x
 40ab5ed	2.114700	9.1	discard	raise scalar lr to 0.4
 33c95c2	2.308124	9.1	discard	shorten warmdown to 30 percent
+e409572	2.130255	9.1	discard	use two full attention layers

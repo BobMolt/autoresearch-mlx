@@ -1,4 +1,5 @@
 .DS_Store
+.codex-run-*/
 .venv/
 __pycache__/
 *.pyc

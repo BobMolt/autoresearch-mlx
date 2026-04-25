@@ -12,3 +12,4 @@ b3b277b	2.183802	10.3	discard	sharpen sliding window to 1/4 context
 172ba13	2.073282	9.1	keep	remove logit cap after 3x MLP and scalar lr 0.3
 451527c	2.348693	9.1	discard	lower weight decay to 0.1 after removing logit cap
 d2eacb2	2.255643	9.1	discard	lower matrix lr to 0.03 after removing logit cap
+6f3e6d4	2.344153	11.4	discard	widen aspect ratio to 96

@@ -19,3 +19,4 @@ a2930b0	2.262484	8.6	discard	shrink MLP to 2x
 e409572	2.130255	9.1	discard	use two full attention layers
 5de4b63	2.322955	9.1	discard	raise scalar lr to 0.35
 3efc415	1.921048	9.1	keep	halve total batch to 2^15
+8eecb32	1.741919	5.4	keep	halve device and total batch

@@ -375,7 +375,8 @@ FINAL_LR_FRAC = 0.0
 # Model size
 DEPTH = 4
 DEVICE_BATCH_SIZE = 16
-FINAL_EVAL_BATCH_SIZE = 256
+# 256 OOMs during final eval on a 16 GB M4 Mac Mini; 64 is stable.
+FINAL_EVAL_BATCH_SIZE = 64
 STARTUP_EXCLUDE_STEPS = 1
 
 

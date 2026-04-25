@@ -22,3 +22,4 @@ e409572	2.130255	9.1	discard	use two full attention layers
 8eecb32	1.741919	5.4	keep	halve device and total batch
 a22ffd8	1.685122	5.4	keep	halve batch again to 2^13
 ffcedf5	1.696541	5.4	discard	halve batch to 2^12
+8e362f7	1.664690	5.4	keep	lower matrix lr to 0.03 at batch 2^13

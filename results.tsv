@@ -6,3 +6,4 @@ c67ad2a	2.695369	26.9	discard	lower weight decay to 0.1
 5efc7aa	1.807902	20.7	keep	reduce depth from 8 to 4
 fc1fa6d	2.322967	10.8	keep	Mac Mini baseline with final eval batch size 64
 3237736	2.266713	10.3	keep	shrink MLP to 3x
+00524b2	2.181477	10.3	keep	lower scalar lr to 0.3 after 3x MLP

@@ -24,3 +24,4 @@ a22ffd8	1.685122	5.4	keep	halve batch again to 2^13
 ffcedf5	1.696541	5.4	discard	halve batch to 2^12
 8e362f7	1.664690	5.4	keep	lower matrix lr to 0.03 at batch 2^13
 1adf85a	1.675551	5.4	discard	lower matrix lr to 0.02
+6449f8d	1.699108	5.4	discard	lower scalar lr to 0.2 at batch 2^13

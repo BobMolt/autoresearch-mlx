@@ -359,7 +359,7 @@ class AdamW:
 ASPECT_RATIO = 64
 HEAD_DIM = 128
 WINDOW_PATTERN = "SSSL"
-MLP_EXPANSION = 2
+MLP_EXPANSION = 3
 
 # v0.1: AdamW only. Muon port is future work.
 TOTAL_BATCH_SIZE = 2**16

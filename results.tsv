@@ -10,3 +10,4 @@ fc1fa6d	2.322967	10.8	keep	Mac Mini baseline with final eval batch size 64
 b3b277b	2.183802	10.3	discard	sharpen sliding window to 1/4 context
 9457693	2.268438	10.3	discard	lower scalar lr to 0.2 after 3x MLP
 172ba13	2.073282	9.1	keep	remove logit cap after 3x MLP and scalar lr 0.3
+451527c	2.348693	9.1	discard	lower weight decay to 0.1 after removing logit cap

@@ -15,3 +15,4 @@ d2eacb2	2.255643	9.1	discard	lower matrix lr to 0.03 after removing logit cap
 6f3e6d4	2.344153	11.4	discard	widen aspect ratio to 96
 a2930b0	2.262484	8.6	discard	shrink MLP to 2x
 40ab5ed	2.114700	9.1	discard	raise scalar lr to 0.4
+33c95c2	2.308124	9.1	discard	shorten warmdown to 30 percent
